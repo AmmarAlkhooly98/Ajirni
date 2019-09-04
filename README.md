@@ -17,6 +17,7 @@ App for renting items, such as, cars, flats, tools, .....etc.
     1. [Installing Dependencies](#installing-dependencies)
     1. [Tasks](#tasks)
 1. [Project-Stack](#Stack)
+1. [Video Demo](#Demo)
 1. [Team](#team)
 1. [Contributing](#contributing)
 1. [More Details about the Project](#More-Details-about-the-Project-New-Release)
